@@ -12,5 +12,4 @@
 
 # SKILL
 ![JAVA Script](https://img.shields.io/badge/javascript-white.svg?&style=for-the-badge&logo=javascript&logoColor=#F7DF1E)
-![React](https://img.shields.io/badge/react-white.svg?&style=for-the-badge&logo=react&logoColor=#61DAFB)
 
